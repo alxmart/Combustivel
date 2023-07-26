@@ -15,6 +15,5 @@ class DetalhesActivity : AppCompatActivity() {
         btnFechar.setOnClickListener {
             finish()
         }
-
     }
 }
